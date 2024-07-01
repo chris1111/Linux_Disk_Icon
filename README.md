@@ -1,6 +1,6 @@
 # Linux_Disk_Icon
 
-I created 61 icons Linux distros, included 4 windows icons.
+I created two sets of 60+ icons for Linux distributions, including 4 Windows icons.
 
 Use them as you wish, and hope you like it. 
 
